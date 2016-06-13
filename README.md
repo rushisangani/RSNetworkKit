@@ -5,8 +5,6 @@ RSNetworkKit is build upon [AFNetworking 3.0](https://github.com/AFNetworking/AF
 
 ## Features
 
-It supports following features:
-
 - Make all network request using GET, POST, PUT, DELETE etc with ease.
 - Download request with progress using singleton method.
 - Upload request OR Multipart form upload request with progress using singleton method.
